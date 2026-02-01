@@ -1,3 +1,41 @@
 /* 6つのp要素に適用するスタイルを宣言 */
+p { 
+    background-color: blue;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-yellow {
+    color: yellow;
+}
 
 /* 6つのli要素に適用するスタイルを宣言 */
+.text-blue {
+    color: blue;
+}
+
+.back-gray {
+    background-color: gray;
+}
+
+.back-green {
+    background-color: green;
+}
+
+.back-brown {
+    background-color: brown;
+}
+
+.tsize-16 {
+    font-size: 16pt;
+}
+
+.tsize-12 {
+    font-size: 12pt;
+}
